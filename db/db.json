@@ -1,0 +1,63 @@
+{
+  "user": [
+    {
+      "id": "8883",
+      "name": "Mirinda Nguyễn Sĩ",
+      "email": "duc@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "b7ff",
+      "name": "Mirinda Nguyễn Sĩ",
+      "email": "admin@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "e5ee",
+      "name": "da",
+      "email": "tam@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "06a4",
+      "name": "nguyen tran tamm",
+      "email": "VanA@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "16ab",
+      "name": "demo11",
+      "email": "toan@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ef35",
+      "name": "da",
+      "email": "admin2@gmail.com",
+      "password": "123"
+    }
+  ],
+  "posts": [
+    {
+      "id": "c6b5",
+      "user_id": "b7ff",
+      "title": "learn",
+      "content": "learn\nlearn\nlearn\n",
+      "category": "Technology"
+    },
+    {
+      "id": "da83",
+      "user_id": "b7ff",
+      "title": "học văn",
+      "content": "học văn\nhọc toán",
+      "category": "Technology"
+    },
+    {
+      "id": "cdfe",
+      "user_id": "b7ff",
+      "title": "học anh",
+      "content": "học anh",
+      "category": "Education"
+    }
+  ]
+}
